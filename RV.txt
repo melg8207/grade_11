@@ -1,0 +1,12 @@
+Adm.No.			Name			    Class		Total
+-----------------------------------------------------
+T111			Mighty Raju			XI			455
+T112			Handsome Squidward	XI		    495
+T113			Chotta Bheem		XI		    400
+T114			Boboiboi			XI			425
+T115			Shinchan			XI			367
+T116			Doraemon			XI			440
+T117			Naruto				XI			330
+T118			He-man				XI			369
+T119			SpongeBob			XI			397
+T120			Monkey D. Luffy		XI		    345
